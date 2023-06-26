@@ -2,7 +2,7 @@
 
 
 - 🔭 Co-founder at [Databend Labs](https://github.com/datafuselabs/databend), a startup that focuses on building the world's best data cloud on top of the open-source project [databend](https://github.com/datafuselabs/databend)
-- 👯 I’m a top contributor to ClickHouse and TokuDB
+- 👯 Contributor to ClickHouse and TokuDB
 - 📫 How to reach me: [Blog (Chinese)](https://bohutang.me) | [Twitter](https://twitter.com/BohuTANG) 
 - 😄 Pronouns: He/Him, BohuTANG (张雁飞)
 
