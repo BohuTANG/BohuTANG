@@ -7,4 +7,11 @@ I'm Bohu, Co-founder of [Databend Labs](https://github.com/datafuselabs/databend
 - 🌐 **Focus**: Building the next Cloud Warehouse, designed for Data + AI
 - 📫 **Connect**: [Twitter](https://twitter.com/bohutang) | [LinkedIn](https://www.linkedin.com/in/bohutang/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bohutang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/BohuTANG?pet-id=654569271696419309"
+    width="600"
+    height="120"
+  />
+</a>
+  
